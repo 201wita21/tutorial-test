@@ -1,10 +1,9 @@
 {
-  "name": "mein-projekt",
+  "name": "tutorial-test",
   "version": "1.0.0",
   "scripts": {
-    "start": "node index.js"
+    "build": "echo 'Build step placeholder'"
   },
-  "dependencies": {
-    
-  }
+  "devDependencies": {},
+  "dependencies": {}
 }
