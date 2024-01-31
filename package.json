@@ -1,9 +1,10 @@
 {
-  "name": "simple-node-project",
+  "name": "mein-projekt",
   "version": "1.0.0",
   "scripts": {
-    "build": "echo 'Build step placeholder'"
+    "start": "node index.js"
   },
-  "devDependencies": {},
-  "dependencies": {}
+  "dependencies": {
+    
+  }
 }
