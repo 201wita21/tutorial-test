@@ -24,4 +24,6 @@ jobs:
 
     - name: Build
       run: |
+        echo "Starte den Build-Prozess"
         npm run build
+        echo "Build-Prozess abgeschlossen"
